@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jaskeerat. 
-![](https://i.pinimg.com/originals/a5/43/7f/a5437f22ad3513ede0be361dd4c648ca.gif)
+<div style="text-align: center"><img src="https://i.pinimg.com/originals/a5/43/7f/a5437f22ad3513ede0be361dd4c648ca.gif" /></div>
 
 Proficient Biotech professional with experience with Bioinformatics projects. Currently studying at Western University in London, ON Canada. 
 

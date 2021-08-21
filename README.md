@@ -10,7 +10,7 @@ Skills: R / Python
 - 🤔 I’m looking for help with machine learning and AI. 
 - 💬 Ask me about bioinformatics. 
 - 📫 How to reach me: jsing322@uwo.ca 
-- ⚡ Fun fact: I have an interent in space and interstellar science.  
+- ⚡ Fun fact: I have an interest in space and interstellar science.  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/geneiousj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jaskeeratsingh2000/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jaskeerats2000)  

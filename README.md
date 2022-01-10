@@ -3,7 +3,7 @@
 
 Proficient Biotech professional with experience with Bioinformatics projects. Currently studying at Western University in London, ON Canada. 
 
-Skills: R / Python 
+Skills: Python 
 
 - 🔭 I’m currently working on genomics and genetics science.  
 - 👯 I’m looking to collaborate on biocomputing projects. 
